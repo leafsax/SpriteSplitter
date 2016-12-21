@@ -1,5 +1,8 @@
 # SpriteSplitter
 SpriteSplitter is to generate plist files for given image.
+
+Download the SpriteSplitter.jar. Install JRE8.
+
 Usage:
 1. Right click and use menu "Load File" to choose an image file.
 2. Right click and use menu "Generate BoundingBox"
