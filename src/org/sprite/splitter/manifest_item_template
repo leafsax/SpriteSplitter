@@ -1,0 +1,15 @@
+            <key>%1$s</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{%4$d,%5$d}</string>
+                <key>spriteSourceSize</key>
+                <string>{%4$d,%5$d}</string>
+                <key>textureRect</key>
+                <string>{{%2$d,%3$d},{%4$d,%5$d}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>

@@ -1,0 +1,19 @@
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>%1$s</string>
+            <key>size</key>
+            <string>{%2$d,%3$d}</string>
+            <key>smartupdate</key>
+            <key>textureFileName</key>
+            <string>%1$s</string>
+        </dict>
+    </dict>
+</plist>
